@@ -1,20 +1,17 @@
-reports:
+reportssss:
 
    results/MultiQC Report.html:
       display: "MultiQC Report"
-      mimeType: "text/html"
+
 
    results/report.pdf:
       display: "Pdf report"
-      mimeType: "application/pdf"
 
    results/SPAdesHybrid-CAPES_S7-binDepths.heatmap.png:
       display: "SPAdesHybrid-CAPES_S7-binDepths.heatmap.png"
-      mimeType: "image/png"
 
    results/taxonomy.krona.html:
-      display: ""
-      mimeType: "text/html"
+      display: "Taxonomy"
 
 
       ## In FUTURE
